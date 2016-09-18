@@ -22,7 +22,8 @@
     "inferno": "^0.7.27",
     "inferno-component": "^0.7.27",
     "inferno-dom": "^0.7.27",
-    "inferno-redux": "^0.7.27"
+    "inferno-redux": "^0.7.27",
+    "inferno-router": "^0.7.27"
   },
   "devDependencies": {
     "babel-core": "^6.14.0",

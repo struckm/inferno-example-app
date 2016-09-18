@@ -1,11 +1,11 @@
 import Inferno from 'inferno';
+import { Link } from 'inferno-router';
 
 export default () => (
     <header style={styles.container}>
         <h1>Inferno Example App</h1>
-        <h2>Inferno Example App</h2>
-        <h3>Inferno Example App</h3>
-        <h4>Inferno Example App</h4>
+        <nav>
+        </nav>
     </header>
 );
 
