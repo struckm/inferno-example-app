@@ -1,0 +1,38 @@
+{
+  "name": "inferno-example-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "dev": "webpack-dev-server --port 8080",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/struckm/inferno-example-app.git"
+  },
+  "keywords": [],
+  "author": "Mark Struck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/struckm/inferno-example-app/issues"
+  },
+  "homepage": "https://github.com/struckm/inferno-example-app#readme",
+  "dependencies": {
+    "inferno": "^0.7.27",
+    "inferno-component": "^0.7.27",
+    "inferno-dom": "^0.7.27",
+    "inferno-redux": "^0.7.27"
+  },
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-loader": "^6.2.5",
+    "babel-plugin-inferno": "^0.7.7",
+    "babel-preset-es2015": "^6.14.0",
+    "babel-preset-stage-1": "^6.13.0",
+    "css-loader": "^0.25.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}

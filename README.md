@@ -1,1 +1,7 @@
-# inferno-example-app
+## inferno-example-app
+
+## Installation
+
+```sh
+npm install
+```
